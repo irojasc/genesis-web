@@ -2,6 +2,8 @@
 
 /src
 
+/assets
+
 # dependencies
 /node_modules
 /.pnp
