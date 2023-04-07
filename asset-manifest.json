@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/genesis-web/static/css/main.4cb61a63.css",
+    "main.js": "/genesis-web/static/js/main.695a41ca.js",
+    "index.html": "/genesis-web/index.html",
+    "main.4cb61a63.css.map": "/genesis-web/static/css/main.4cb61a63.css.map",
+    "main.695a41ca.js.map": "/genesis-web/static/js/main.695a41ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cb61a63.css",
+    "static/js/main.695a41ca.js"
+  ]
+}
